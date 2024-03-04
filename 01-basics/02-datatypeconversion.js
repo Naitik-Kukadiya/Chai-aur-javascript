@@ -8,5 +8,10 @@
 let loggedin = 5;
 
 let booleanlooggedin = Boolean(loggedin);
-console.log(booleanlooggedin);
+//console.log(booleanlooggedin);
 
+let x = Boolean;
+
+let y = Number(x);
+
+console.log(y);
