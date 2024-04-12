@@ -19,4 +19,25 @@ function loginMsg(username = "sam"){
     }
     return `${username} just logged in`
 } 
-console.log(loginMsg("Naitik"));
+// console.log(loginMsg("Naitik"));
+
+
+
+
+
+// *********************************************************
+
+
+function no(...num1){
+    return num1
+}
+// console.log(no(50, 100, 500, 8254));
+
+let againNo = {
+    name: "Nairik",
+    age: 20
+}
+
+function fuck(fuckAgain){
+    console.log(fuckAgain.name);
+}
